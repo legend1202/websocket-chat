@@ -20,4 +20,4 @@ npm run client
 
 # Demo
 
-[![https://drive.google.com/file/d/1J3Y7j7YgIn_j44HOyJxZK1eCTSNSlTxV/view]]
+https://drive.google.com/file/d/1J3Y7j7YgIn_j44HOyJxZK1eCTSNSlTxV/view
